@@ -20,5 +20,5 @@ Das Programm wurde mit den folgenden Features erweitert:
 - Generierung auf Enter
 - Farbiger Hintergrund mit Übergang
 - Geplant:
-    Scan me! Icon nach Generierung
-    Download Button
+- Scan me! Icon nach Generierung
+- Download Button
