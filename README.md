@@ -13,7 +13,7 @@ https://github.com/Viktoria-Sz92/QR-Code-Generator.git
 
 ### Features
 
-[Credit:]([URL](https://www.youtube.com/watch?v=g1j9rR-H1lk&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=8))
+[Credit:](https://www.youtube.com/watch?v=g1j9rR-H1lk&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=8)
 
 Das Programm wurde mit den folgenden Features erweitert:
 
